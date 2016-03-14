@@ -1,5 +1,9 @@
-JMeter, thread and loop 
-=========
+---
+layout: post
+title:  "JMeter, thread and loop"
+date:   2016-03-06 17:07:47 +0900
+categories: jmeter
+---
 
 When doing performance test with JMeter and Junit sampler. I wonder what exact is done by the thread and loop. 
 The [JMeter document](http://jmeter.apache.org/usermanual/test_plan.html), says
